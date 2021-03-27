@@ -27,7 +27,7 @@ re = /Hel{2}o/i;      // Must occur exactly {x} amount of times
 re = /Hel{2,4}o/i;      // Must occur exactly {x} amount of times
 re = /Hel{2,}o/i;      // Must occur at least {x} times
 
-// Paretheses () - Grouping
+// Parentheses () - Grouping
 re = /^([0-9]x){3}$/
 
 // Shorthand Character Classes
